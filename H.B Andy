@@ -1,0 +1,10 @@
+
+python
+you = Person("Dear Andy")
+for i in range(0,4):
+  if i == 2:
+    you.name = Happy_Birthday
+  else:
+    you = Happy_Birthday
+    for i in range(0,4):print"Happy Birthday"("Dear Andy",))or("to you",))[0]
+    
